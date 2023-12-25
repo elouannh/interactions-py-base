@@ -1,0 +1,1 @@
+from commands.ping import executor as ping_executor
